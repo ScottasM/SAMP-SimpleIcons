@@ -4,6 +4,8 @@ A simple include that lets you define map icon destroy distance and/or time with
 ## Instalation
 Place SimpleIcons.inc in your pawno >> includes folder.
 
+Ysi/y_iterate / y_foreach include required. You can get it here : https://github.com/YSI-Data/y_iterate
+
 Add this next to your includes:
 ```pawn
 #include <SimpleIcons>
